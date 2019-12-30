@@ -1,0 +1,540 @@
+Confidence: 100%, Class: core_battery, Box: (507, 549), (596, 747);  Picture: 00003539
+Confidence: 99%, Class: core_battery, Box: (545, 451), (667, 581);  Picture: 00004642
+Confidence: 94%, Class: core_battery, Box: (1029, 767), (1139, 898);  Picture: 00002162
+Confidence: 67%, Class: coreless_battery, Box: (331, 511), (363, 628);  Confidence: 53%, Class: coreless_battery, Box: (320, 485), (366, 669);  Picture: 00001697
+Confidence: 80%, Class: coreless_battery, Box: (20, 676), (166, 770);  Picture: 00004575
+Confidence: 99%, Class: coreless_battery, Box: (525, 511), (655, 658);  Picture: 00004639
+Confidence: 99%, Class: coreless_battery, Box: (108, 606), (187, 690);  Picture: 00000782
+Confidence: 99%, Class: coreless_battery, Box: (267, 592), (373, 706);  Picture: 00003708
+Confidence: 98%, Class: coreless_battery, Box: (70, 510), (221, 599);  Picture: 00001534
+Confidence: 99%, Class: coreless_battery, Box: (278, 582), (380, 721);  Picture: 00001551
+Confidence: 69%, Class: coreless_battery, Box: (83, 353), (445, 457);  Picture: 00004594
+Confidence: 100%, Class: core_battery, Box: (1106, 429), (1234, 548);  Confidence: 67%, Class: core_battery, Box: (1240, 672), (1303, 782);  Confidence: 63%, Class: core_battery, Box: (1251, 690), (1296, 756);  Picture: 00002473
+Confidence: 98%, Class: coreless_battery, Box: (156, 374), (293, 489);  Confidence: 98%, Class: core_battery, Box: (229, 369), (463, 478);  Picture: 00004417
+Confidence: 99%, Class: coreless_battery, Box: (434, 715), (547, 877);  Confidence: 100%, Class: core_battery, Box: (1159, 788), (1286, 885);  Picture: 00002700
+Confidence: 99%, Class: core_battery, Box: (64, 623), (218, 722);  Confidence: 74%, Class: core_battery, Box: (203, 722), (268, 838);  Picture: 00001422
+Confidence: 91%, Class: core_battery, Box: (1725, 462), (1831, 626);  Picture: 00002628
+Confidence: 99%, Class: coreless_battery, Box: (389, 496), (573, 596);  Confidence: 97%, Class: core_battery, Box: (918, 721), (1059, 854);  Picture: 00001954
+Confidence: 98%, Class: core_battery, Box: (217, 619), (397, 768);  Picture: 00003286
+Confidence: 98%, Class: coreless_battery, Box: (454, 493), (604, 576);  Picture: 00001097
+Confidence: 100%, Class: coreless_battery, Box: (1747, 763), (1902, 873);  Picture: 00005759
+Confidence: 99%, Class: coreless_battery, Box: (8, 431), (202, 512);  Picture: 00001500
+Confidence: 93%, Class: coreless_battery, Box: (125, 541), (203, 707);  Picture: 00005979
+Confidence: 98%, Class: core_battery, Box: (1529, 600), (1672, 840);  Picture: 00004876
+Confidence: 100%, Class: core_battery, Box: (64, 766), (309, 865);  Picture: 00000517
+Confidence: 100%, Class: coreless_battery, Box: (479, 370), (671, 475);  Picture: 00004226
+Confidence: 99%, Class: coreless_battery, Box: (736, 803), (895, 899);  Confidence: 83%, Class: core_battery, Box: (1151, 673), (1256, 809);  Picture: 00000486
+Confidence: 98%, Class: coreless_battery, Box: (551, 801), (732, 876);  Picture: 00004712
+Confidence: 91%, Class: coreless_battery, Box: (463, 490), (604, 687);  Picture: 00005260
+Confidence: 99%, Class: coreless_battery, Box: (1073, 761), (1151, 924);  Confidence: 98%, Class: core_battery, Box: (99, 313), (247, 401);  Picture: 00005026
+Confidence: 98%, Class: coreless_battery, Box: (520, 573), (671, 674);  Picture: 00003369
+Confidence: 83%, Class: core_battery, Box: (288, 563), (419, 669);  Picture: 00001721
+Confidence: 99%, Class: coreless_battery, Box: (109, 379), (298, 489);  Picture: 00004095
+Confidence: 78%, Class: coreless_battery, Box: (1061, 463), (1097, 590);  Picture: 00005715
+Confidence: 99%, Class: coreless_battery, Box: (1675, 743), (1777, 948);  Confidence: 99%, Class: coreless_battery, Box: (1366, 696), (1511, 794);  Picture: 00000142
+Picture: 00000988
+Confidence: 77%, Class: core_battery, Box: (410, 385), (541, 474);  Picture: 00005993
+Confidence: 99%, Class: coreless_battery, Box: (133, 601), (285, 729);  Picture: 00002425
+Confidence: 97%, Class: coreless_battery, Box: (276, 648), (378, 817);  Confidence: 98%, Class: core_battery, Box: (67, 677), (214, 806);  Picture: 00004433
+Confidence: 95%, Class: coreless_battery, Box: (849, 533), (989, 825);  Picture: 00005231
+Confidence: 100%, Class: core_battery, Box: (1237, 799), (1419, 906);  Picture: 00005663
+Confidence: 96%, Class: core_battery, Box: (1130, 579), (1269, 794);  Picture: 00004460
+Confidence: 100%, Class: coreless_battery, Box: (1115, 667), (1229, 842);  Picture: 00001156
+Confidence: 100%, Class: coreless_battery, Box: (216, 565), (398, 669);  Picture: 00002034
+Picture: 00005151
+Confidence: 100%, Class: core_battery, Box: (356, 405), (560, 568);  Picture: 00003230
+Confidence: 100%, Class: core_battery, Box: (138, 429), (325, 576);  Picture: 00001466
+Confidence: 100%, Class: coreless_battery, Box: (340, 673), (439, 864);  Picture: 00003904
+Confidence: 99%, Class: coreless_battery, Box: (83, 726), (282, 838);  Picture: 00004461
+Confidence: 99%, Class: coreless_battery, Box: (1013, 605), (1162, 804);  Picture: 00002847
+Confidence: 98%, Class: coreless_battery, Box: (249, 721), (466, 854);  Confidence: 81%, Class: coreless_battery, Box: (0, 367), (198, 424);  Picture: 00001688
+Confidence: 95%, Class: coreless_battery, Box: (1728, 358), (1838, 543);  Picture: 00001891
+Confidence: 99%, Class: core_battery, Box: (465, 666), (559, 799);  Picture: 00004702
+Confidence: 97%, Class: core_battery, Box: (601, 797), (657, 905);  Picture: 00002755
+Confidence: 100%, Class: coreless_battery, Box: (148, 709), (310, 819);  Picture: 00000353
+Confidence: 98%, Class: core_battery, Box: (135, 733), (214, 895);  Picture: 00005648
+Confidence: 100%, Class: coreless_battery, Box: (613, 412), (798, 511);  Picture: 00002900
+Confidence: 99%, Class: coreless_battery, Box: (765, 685), (884, 880);  Picture: 00001170
+Confidence: 83%, Class: coreless_battery, Box: (546, 322), (662, 389);  Picture: 00000969
+Confidence: 99%, Class: core_battery, Box: (176, 533), (317, 625);  Picture: 00001463
+Confidence: 97%, Class: core_battery, Box: (174, 421), (295, 591);  Picture: 00000324
+Confidence: 98%, Class: coreless_battery, Box: (258, 766), (396, 856);  Picture: 00000811
+Confidence: 98%, Class: coreless_battery, Box: (1542, 396), (1704, 532);  Confidence: 98%, Class: core_battery, Box: (1185, 444), (1329, 545);  Picture: 00004871
+Confidence: 66%, Class: coreless_battery, Box: (1639, 402), (1770, 511);  Confidence: 99%, Class: core_battery, Box: (1475, 382), (1634, 470);  Confidence: 98%, Class: core_battery, Box: (1121, 546), (1194, 692);  Picture: 00005949
+Confidence: 97%, Class: coreless_battery, Box: (116, 609), (264, 700);  Picture: 00003380
+Picture: 00000919
+Confidence: 99%, Class: coreless_battery, Box: (514, 536), (596, 725);  Picture: 00004825
+Confidence: 100%, Class: core_battery, Box: (691, 413), (786, 601);  Picture: 00003074
+Confidence: 98%, Class: coreless_battery, Box: (400, 626), (567, 727);  Picture: 00003011
+Confidence: 99%, Class: core_battery, Box: (58, 633), (184, 748);  Picture: 00002433
+Confidence: 98%, Class: coreless_battery, Box: (575, 529), (754, 630);  Picture: 00001353
+Confidence: 92%, Class: core_battery, Box: (601, 751), (674, 891);  Picture: 00000794
+Confidence: 98%, Class: core_battery, Box: (276, 643), (401, 753);  Picture: 00005491
+Confidence: 98%, Class: coreless_battery, Box: (578, 391), (741, 480);  Confidence: 99%, Class: core_battery, Box: (78, 577), (193, 682);  Picture: 00005854
+Confidence: 99%, Class: core_battery, Box: (844, 350), (948, 549);  Picture: 00000380
+Confidence: 97%, Class: core_battery, Box: (713, 419), (888, 534);  Picture: 00002558
+Confidence: 81%, Class: coreless_battery, Box: (200, 522), (345, 693);  Picture: 00003364
+Confidence: 100%, Class: core_battery, Box: (313, 697), (401, 908);  Picture: 00005871
+Confidence: 99%, Class: coreless_battery, Box: (851, 531), (1002, 626);  Picture: 00001975
+Confidence: 98%, Class: core_battery, Box: (250, 629), (386, 742);  Picture: 00001416
+Confidence: 100%, Class: coreless_battery, Box: (599, 446), (759, 552);  Picture: 00002123
+Confidence: 100%, Class: coreless_battery, Box: (616, 701), (722, 877);  Picture: 00002331
+Confidence: 99%, Class: core_battery, Box: (753, 379), (831, 544);  Picture: 00000225
+Confidence: 82%, Class: core_battery, Box: (385, 593), (456, 710);  Picture: 00003803
+Confidence: 95%, Class: coreless_battery, Box: (167, 751), (351, 862);  Picture: 00005301
+Confidence: 98%, Class: core_battery, Box: (626, 792), (806, 892);  Picture: 00004209
+Confidence: 100%, Class: coreless_battery, Box: (120, 798), (294, 927);  Picture: 00001356
+Confidence: 100%, Class: coreless_battery, Box: (153, 403), (335, 500);  Picture: 00005069
+Confidence: 98%, Class: core_battery, Box: (1233, 372), (1369, 450);  Picture: 00004265
+Confidence: 95%, Class: core_battery, Box: (534, 417), (658, 468);  Picture: 00005142
+Confidence: 99%, Class: coreless_battery, Box: (185, 375), (351, 456);  Picture: 00001586
+Confidence: 98%, Class: core_battery, Box: (766, 772), (901, 873);  Picture: 00004939
+Confidence: 100%, Class: core_battery, Box: (255, 580), (398, 688);  Picture: 00002357
+Confidence: 99%, Class: coreless_battery, Box: (459, 578), (553, 737);  Picture: 00005767
+Confidence: 100%, Class: core_battery, Box: (125, 628), (249, 766);  Picture: 00002656
+Picture: 00004125
+Confidence: 100%, Class: coreless_battery, Box: (1815, 573), (1999, 666);  Confidence: 99%, Class: coreless_battery, Box: (416, 699), (512, 891);  Picture: 00003091
+Confidence: 98%, Class: coreless_battery, Box: (678, 342), (807, 468);  Picture: 00003382
+Confidence: 100%, Class: core_battery, Box: (625, 385), (785, 570);  Picture: 00002767
+Confidence: 99%, Class: coreless_battery, Box: (151, 397), (268, 545);  Picture: 00001285
+Confidence: 99%, Class: core_battery, Box: (153, 400), (221, 527);  Picture: 00000945
+Confidence: 96%, Class: core_battery, Box: (678, 697), (807, 775);  Picture: 00005681
+Confidence: 93%, Class: core_battery, Box: (396, 355), (452, 545);  Picture: 00004531
+Confidence: 58%, Class: core_battery, Box: (766, 730), (947, 847);  Picture: 00002008
+Confidence: 89%, Class: core_battery, Box: (738, 323), (863, 397);  Picture: 00003957
+Confidence: 100%, Class: coreless_battery, Box: (65, 617), (155, 771);  Picture: 00000134
+Confidence: 100%, Class: core_battery, Box: (153, 347), (335, 432);  Picture: 00000550
+Confidence: 99%, Class: core_battery, Box: (1033, 424), (1167, 564);  Picture: 00004192
+Confidence: 100%, Class: coreless_battery, Box: (174, 770), (381, 895);  Picture: 00002609
+Confidence: 99%, Class: core_battery, Box: (981, 423), (1096, 650);  Confidence: 98%, Class: core_battery, Box: (439, 488), (529, 596);  Picture: 00006060
+Confidence: 99%, Class: coreless_battery, Box: (1739, 570), (1904, 672);  Picture: 00000917
+Confidence: 97%, Class: coreless_battery, Box: (712, 607), (868, 698);  Confidence: 56%, Class: coreless_battery, Box: (718, 775), (874, 881);  Picture: 00003866
+Confidence: 98%, Class: coreless_battery, Box: (1198, 660), (1348, 805);  Picture: 00004223
+Confidence: 99%, Class: core_battery, Box: (1083, 755), (1272, 881);  Confidence: 88%, Class: core_battery, Box: (163, 440), (203, 629);  Picture: 00000058
+Confidence: 95%, Class: coreless_battery, Box: (651, 413), (751, 601);  Picture: 00001859
+Confidence: 100%, Class: core_battery, Box: (206, 698), (351, 856);  Picture: 00003916
+Confidence: 99%, Class: coreless_battery, Box: (203, 548), (338, 716);  Picture: 00002870
+Confidence: 98%, Class: coreless_battery, Box: (691, 486), (774, 614);  Picture: 00000881
+Confidence: 100%, Class: core_battery, Box: (109, 420), (304, 525);  Confidence: 99%, Class: core_battery, Box: (1517, 632), (1603, 883);  Picture: 00003911
+Confidence: 99%, Class: core_battery, Box: (202, 551), (344, 657);  Picture: 00005779
+Confidence: 99%, Class: coreless_battery, Box: (64, 478), (171, 674);  Confidence: 95%, Class: coreless_battery, Box: (717, 692), (810, 871);  Picture: 00000116
+Confidence: 99%, Class: coreless_battery, Box: (197, 829), (391, 923);  Picture: 00004786
+Confidence: 100%, Class: core_battery, Box: (429, 808), (619, 901);  Picture: 00004989
+Confidence: 98%, Class: coreless_battery, Box: (417, 805), (561, 893);  Picture: 00003824
+Confidence: 100%, Class: coreless_battery, Box: (85, 625), (287, 798);  Confidence: 56%, Class: coreless_battery, Box: (508, 818), (634, 933);  Picture: 00004144
+Confidence: 99%, Class: coreless_battery, Box: (1094, 357), (1271, 492);  Picture: 00004037
+Confidence: 98%, Class: coreless_battery, Box: (753, 705), (837, 874);  Picture: 00003870
+Confidence: 98%, Class: core_battery, Box: (1145, 524), (1267, 738);  Picture: 00002826
+Confidence: 93%, Class: core_battery, Box: (1251, 666), (1393, 745);  Picture: 00002175
+Confidence: 99%, Class: core_battery, Box: (333, 561), (390, 694);  Picture: 00005088
+Confidence: 99%, Class: core_battery, Box: (903, 507), (1000, 678);  Picture: 00005912
+Confidence: 59%, Class: coreless_battery, Box: (979, 340), (1130, 415);  Confidence: 96%, Class: core_battery, Box: (1428, 343), (1556, 430);  Picture: 00001340
+Confidence: 100%, Class: core_battery, Box: (72, 435), (175, 623);  Picture: 00004176
+Confidence: 98%, Class: coreless_battery, Box: (605, 523), (705, 724);  Picture: 00004633
+Confidence: 90%, Class: coreless_battery, Box: (1108, 368), (1159, 482);  Picture: 00000205
+Confidence: 98%, Class: coreless_battery, Box: (198, 432), (282, 593);  Picture: 00005597
+Confidence: 97%, Class: coreless_battery, Box: (1791, 392), (1956, 539);  Picture: 00002622
+Confidence: 99%, Class: core_battery, Box: (293, 450), (425, 579);  Picture: 00003733
+Confidence: 99%, Class: coreless_battery, Box: (766, 386), (925, 488);  Picture: 00000784
+Confidence: 99%, Class: coreless_battery, Box: (117, 730), (296, 867);  Picture: 00004877
+Confidence: 99%, Class: coreless_battery, Box: (1396, 298), (1504, 497);  Confidence: 97%, Class: core_battery, Box: (184, 687), (314, 794);  Picture: 00005149
+Confidence: 99%, Class: core_battery, Box: (955, 502), (1096, 639);  Picture: 00002436
+Confidence: 99%, Class: core_battery, Box: (1585, 513), (1673, 669);  Picture: 00002287
+Confidence: 97%, Class: coreless_battery, Box: (867, 441), (1012, 571);  Picture: 00005221
+Confidence: 99%, Class: coreless_battery, Box: (100, 685), (264, 883);  Picture: 00002387
+Confidence: 99%, Class: coreless_battery, Box: (112, 334), (315, 431);  Confidence: 89%, Class: coreless_battery, Box: (1312, 420), (1469, 521);  Confidence: 94%, Class: core_battery, Box: (1019, 367), (1150, 454);  Picture: 00005968
+Confidence: 98%, Class: coreless_battery, Box: (221, 584), (355, 684);  Picture: 00002711
+Confidence: 98%, Class: coreless_battery, Box: (90, 421), (218, 591);  Picture: 00004108
+Confidence: 100%, Class: coreless_battery, Box: (214, 392), (376, 507);  Picture: 00002846
+Confidence: 92%, Class: core_battery, Box: (798, 379), (947, 490);  Picture: 00005362
+Confidence: 99%, Class: coreless_battery, Box: (63, 444), (148, 614);  Picture: 00001255
+Confidence: 98%, Class: coreless_battery, Box: (1358, 493), (1477, 772);  Picture: 00004814
+Confidence: 92%, Class: coreless_battery, Box: (1516, 382), (1618, 529);  Picture: 00002607
+Confidence: 99%, Class: coreless_battery, Box: (122, 510), (208, 658);  Picture: 00000573
+Confidence: 96%, Class: core_battery, Box: (221, 781), (369, 889);  Picture: 00004556
+Confidence: 99%, Class: coreless_battery, Box: (200, 375), (346, 492);  Picture: 00000936
+Confidence: 97%, Class: core_battery, Box: (790, 709), (861, 848);  Picture: 00001367
+Confidence: 99%, Class: coreless_battery, Box: (534, 503), (727, 591);  Picture: 00003556
+Confidence: 100%, Class: coreless_battery, Box: (457, 603), (658, 703);  Picture: 00004572
+Confidence: 98%, Class: core_battery, Box: (694, 396), (773, 517);  Picture: 00004077
+Confidence: 99%, Class: coreless_battery, Box: (90, 373), (296, 496);  Picture: 00000844
+Confidence: 87%, Class: coreless_battery, Box: (769, 344), (907, 439);  Picture: 00005570
+Confidence: 98%, Class: core_battery, Box: (98, 780), (301, 890);  Picture: 00004895
+Confidence: 98%, Class: coreless_battery, Box: (816, 743), (964, 862);  Picture: 00002770
+Confidence: 99%, Class: coreless_battery, Box: (198, 332), (376, 453);  Picture: 00003133
+Confidence: 95%, Class: coreless_battery, Box: (1554, 532), (1733, 612);  Picture: 00004332
+Confidence: 100%, Class: coreless_battery, Box: (452, 564), (562, 718);  Picture: 00000660
+Confidence: 98%, Class: coreless_battery, Box: (538, 529), (631, 746);  Picture: 00002363
+Confidence: 98%, Class: coreless_battery, Box: (242, 797), (424, 896);  Confidence: 97%, Class: core_battery, Box: (1607, 529), (1670, 689);  Picture: 00001746
+Confidence: 78%, Class: coreless_battery, Box: (244, 670), (371, 855);  Picture: 00005325
+Confidence: 100%, Class: coreless_battery, Box: (1214, 555), (1316, 764);  Picture: 00005529
+Confidence: 100%, Class: coreless_battery, Box: (160, 501), (369, 665);  Picture: 00004717
+Confidence: 79%, Class: core_battery, Box: (873, 654), (924, 891);  Picture: 00001385
+Confidence: 97%, Class: core_battery, Box: (301, 624), (431, 825);  Picture: 00003581
+Confidence: 93%, Class: coreless_battery, Box: (136, 757), (275, 833);  Picture: 00000420
+Confidence: 100%, Class: coreless_battery, Box: (1564, 373), (1714, 480);  Picture: 00000984
+Confidence: 96%, Class: coreless_battery, Box: (67, 380), (147, 559);  Picture: 00001999
+Confidence: 81%, Class: coreless_battery, Box: (539, 726), (615, 887);  Picture: 00003917
+Confidence: 100%, Class: coreless_battery, Box: (100, 738), (246, 851);  Picture: 00005408
+Confidence: 99%, Class: core_battery, Box: (635, 635), (768, 853);  Picture: 00001205
+Confidence: 98%, Class: core_battery, Box: (451, 458), (509, 675);  Picture: 00004975
+Confidence: 99%, Class: coreless_battery, Box: (683, 630), (858, 735);  Picture: 00003020
+Picture: 00003073
+Confidence: 99%, Class: core_battery, Box: (553, 589), (716, 719);  Picture: 00001111
+Picture: 00002422
+Confidence: 99%, Class: core_battery, Box: (239, 365), (330, 538);  Picture: 00001066
+Confidence: 97%, Class: coreless_battery, Box: (324, 492), (443, 723);  Picture: 00005467
+Confidence: 98%, Class: core_battery, Box: (226, 841), (346, 942);  Picture: 00005790
+Confidence: 99%, Class: coreless_battery, Box: (305, 648), (492, 787);  Confidence: 53%, Class: coreless_battery, Box: (1333, 532), (1443, 636);  Picture: 00005600
+Confidence: 100%, Class: core_battery, Box: (683, 368), (883, 480);  Picture: 00005001
+Confidence: 100%, Class: core_battery, Box: (135, 348), (345, 470);  Picture: 00001403
+Confidence: 100%, Class: core_battery, Box: (247, 386), (386, 508);  Confidence: 97%, Class: core_battery, Box: (818, 483), (922, 547);  Picture: 00003302
+Confidence: 98%, Class: core_battery, Box: (91, 338), (223, 415);  Picture: 00001768
+Picture: 00004024
+Confidence: 100%, Class: coreless_battery, Box: (200, 376), (376, 479);  Picture: 00005011
+Confidence: 95%, Class: core_battery, Box: (486, 343), (569, 614);  Picture: 00005864
+Confidence: 95%, Class: core_battery, Box: (766, 568), (887, 722);  Picture: 00003318
+Confidence: 99%, Class: core_battery, Box: (383, 392), (516, 508);  Picture: 00005461
+Confidence: 88%, Class: coreless_battery, Box: (1816, 423), (1940, 677);  Picture: 00004872
+Confidence: 100%, Class: coreless_battery, Box: (416, 695), (542, 837);  Picture: 00004416
+Confidence: 98%, Class: core_battery, Box: (869, 713), (996, 843);  Picture: 00002820
+Confidence: 100%, Class: coreless_battery, Box: (230, 365), (411, 469);  Picture: 00000182
+Confidence: 98%, Class: coreless_battery, Box: (152, 507), (240, 680);  Picture: 00004301
+Confidence: 100%, Class: core_battery, Box: (134, 601), (331, 734);  Picture: 00005302
+Confidence: 99%, Class: core_battery, Box: (103, 593), (285, 678);  Picture: 00001502
+Confidence: 100%, Class: coreless_battery, Box: (70, 805), (233, 904);  Picture: 00001547
+Confidence: 100%, Class: coreless_battery, Box: (46, 556), (248, 659);  Picture: 00000165
+Confidence: 99%, Class: core_battery, Box: (1516, 744), (1674, 834);  Picture: 00001269
+Confidence: 100%, Class: coreless_battery, Box: (50, 716), (242, 847);  Picture: 00002623
+Picture: 00001059
+Confidence: 54%, Class: coreless_battery, Box: (1429, 491), (1506, 639);  Confidence: 95%, Class: core_battery, Box: (1482, 657), (1557, 810);  Picture: 00000136
+Confidence: 99%, Class: coreless_battery, Box: (1011, 769), (1200, 866);  Confidence: 95%, Class: core_battery, Box: (147, 755), (268, 856);  Picture: 00002745
+Confidence: 95%, Class: core_battery, Box: (59, 451), (134, 604);  Picture: 00000464
+Confidence: 98%, Class: coreless_battery, Box: (817, 433), (901, 631);  Confidence: 98%, Class: core_battery, Box: (141, 586), (334, 690);  Confidence: 75%, Class: core_battery, Box: (136, 683), (231, 815);  Picture: 00006073
+Confidence: 100%, Class: coreless_battery, Box: (122, 667), (318, 800);  Picture: 00004029
+Confidence: 72%, Class: core_battery, Box: (876, 800), (1064, 865);  Picture: 00001318
+Confidence: 91%, Class: coreless_battery, Box: (1107, 549), (1180, 709);  Picture: 00005942
+Confidence: 99%, Class: coreless_battery, Box: (1731, 371), (1907, 526);  Picture: 00005887
+Confidence: 96%, Class: core_battery, Box: (545, 531), (649, 612);  Picture: 00000166
+Confidence: 91%, Class: coreless_battery, Box: (426, 468), (533, 661);  Picture: 00001242
+Confidence: 100%, Class: coreless_battery, Box: (668, 336), (862, 432);  Picture: 00001993
+Confidence: 98%, Class: core_battery, Box: (661, 353), (741, 484);  Picture: 00000886
+Confidence: 100%, Class: core_battery, Box: (429, 641), (588, 730);  Picture: 00003551
+Confidence: 99%, Class: coreless_battery, Box: (146, 437), (356, 538);  Picture: 00003828
+Confidence: 88%, Class: core_battery, Box: (207, 635), (316, 694);  Picture: 00001791
+Confidence: 100%, Class: core_battery, Box: (1524, 746), (1650, 865);  Picture: 00004836
+Confidence: 70%, Class: coreless_battery, Box: (1087, 318), (1264, 402);  Picture: 00004133
+Confidence: 97%, Class: coreless_battery, Box: (637, 379), (724, 531);  Picture: 00003892
+Confidence: 98%, Class: core_battery, Box: (559, 371), (664, 424);  Picture: 00005809
+Confidence: 56%, Class: coreless_battery, Box: (737, 462), (836, 594);  Picture: 00004262
+Confidence: 100%, Class: core_battery, Box: (86, 619), (240, 724);  Picture: 00003613
+Confidence: 98%, Class: core_battery, Box: (0, 454), (71, 512);  Picture: 00000189
+Confidence: 99%, Class: core_battery, Box: (101, 837), (212, 923);  Picture: 00000151
+Confidence: 97%, Class: core_battery, Box: (913, 507), (999, 673);  Picture: 00001505
+Confidence: 100%, Class: coreless_battery, Box: (87, 437), (252, 554);  Picture: 00003389
+Confidence: 95%, Class: core_battery, Box: (389, 360), (432, 416);  Picture: 00000398
+Confidence: 71%, Class: core_battery, Box: (535, 465), (665, 522);  Picture: 00005378
+Confidence: 64%, Confidence: 53%, Class: core_battery, Box: (173, 718), (255, 835);  Picture: 00000233
+Confidence: 95%, Class: core_battery, Box: (1041, 669), (1156, 784);  Picture: 00001682
+Confidence: 88%, Class: coreless_battery, Box: (92, 311), (254, 366);  Picture: 00001342
+Confidence: 93%, Class: coreless_battery, Box: (469, 384), (603, 490);  Picture: 00000607
+Confidence: 100%, Class: core_battery, Box: (133, 622), (224, 748);  Picture: 00005441
+Confidence: 89%, Class: coreless_battery, Box: (689, 445), (746, 628);  Picture: 00004981
+Confidence: 88%, Class: coreless_battery, Box: (112, 484), (281, 548);  Picture: 00005919
+Confidence: 95%, Class: coreless_battery, Box: (603, 389), (705, 581);  Picture: 00004450
+Confidence: 75%, Class: coreless_battery, Box: (134, 392), (377, 581);  Picture: 00004960
+Confidence: 96%, Class: core_battery, Box: (720, 453), (810, 536);  Picture: 00002442
+Confidence: 99%, Class: coreless_battery, Box: (1670, 379), (1844, 468);  Confidence: 94%, Class: core_battery, Box: (61, 351), (208, 415);  Picture: 00004376
+Confidence: 99%, Class: coreless_battery, Box: (564, 696), (701, 873);  Picture: 00000118
+Confidence: 100%, Class: coreless_battery, Box: (138, 409), (316, 529);  Picture: 00005364
+Confidence: 99%, Class: coreless_battery, Box: (568, 819), (732, 921);  Confidence: 93%, Class: core_battery, Box: (184, 380), (283, 494);  Picture: 00001348
+Confidence: 92%, Class: coreless_battery, Box: (118, 476), (303, 540);  Picture: 00003588
+Confidence: 98%, Class: coreless_battery, Box: (1170, 500), (1352, 584);  Picture: 00001171
+Confidence: 99%, Class: coreless_battery, Box: (1243, 543), (1393, 667);  Confidence: 91%, Class: coreless_battery, Box: (323, 399), (470, 547);  Picture: 00003012
+Confidence: 100%, Class: coreless_battery, Box: (41, 513), (245, 624);  Picture: 00004087
+Confidence: 95%, Class: coreless_battery, Box: (263, 412), (395, 504);  Picture: 00004554
+Confidence: 99%, Class: core_battery, Box: (464, 705), (543, 835);  Picture: 00005489
+Confidence: 100%, Class: coreless_battery, Box: (242, 697), (337, 859);  Picture: 00001842
+Confidence: 99%, Class: coreless_battery, Box: (246, 348), (392, 439);  Picture: 00001660
+Confidence: 99%, Class: coreless_battery, Box: (410, 341), (587, 448);  Confidence: 68%, Class: coreless_battery, Box: (575, 473), (664, 583);  Picture: 00001442
+Confidence: 96%, Class: coreless_battery, Box: (61, 613), (187, 799);  Confidence: 90%, Class: core_battery, Box: (1483, 336), (1573, 461);  Picture: 00004560
+Confidence: 96%, Class: core_battery, Box: (43, 548), (169, 637);  Picture: 00004553
+Confidence: 98%, Class: core_battery, Box: (331, 394), (450, 600);  Confidence: 92%, Class: core_battery, Box: (764, 444), (895, 525);  Picture: 00002265
+Confidence: 80%, Class: core_battery, Box: (955, 544), (1072, 637);  Confidence: 53%, Class: core_battery, Box: (966, 567), (1054, 615);  Picture: 00000635
+Confidence: 100%, Class: coreless_battery, Box: (155, 620), (305, 758);  Picture: 00004174
+Confidence: 100%, Class: coreless_battery, Box: (1236, 363), (1411, 454);  Picture: 00001378
+Confidence: 69%, Class: core_battery, Box: (882, 310), (949, 391);  Picture: 00001691
+Confidence: 94%, Class: coreless_battery, Box: (361, 629), (457, 747);  Picture: 00001317
+Confidence: 100%, Class: coreless_battery, Box: (298, 804), (467, 909);  Picture: 00003105
+Confidence: 99%, Class: coreless_battery, Box: (813, 738), (978, 951);  Picture: 00001150
+Confidence: 100%, Class: coreless_battery, Box: (71, 448), (258, 537);  Picture: 00005814
+Confidence: 100%, Class: coreless_battery, Box: (156, 453), (316, 617);  Picture: 00004595
+Confidence: 99%, Class: coreless_battery, Box: (818, 408), (967, 515);  Picture: 00004656
+Confidence: 99%, Class: core_battery, Box: (219, 601), (343, 742);  Confidence: 90%, Class: core_battery, Box: (502, 533), (618, 576);  Picture: 00003077
+Confidence: 96%, Class: coreless_battery, Box: (221, 730), (325, 890);  Picture: 00000288
+Confidence: 100%, Class: coreless_battery, Box: (95, 723), (312, 835);  Picture: 00004208
+Confidence: 100%, Class: core_battery, Box: (1502, 348), (1703, 449);  Picture: 00005728
+Confidence: 100%, Class: coreless_battery, Box: (202, 730), (321, 929);  Picture: 00001016
+Confidence: 99%, Class: core_battery, Box: (901, 592), (1034, 719);  Picture: 00002614
+Confidence: 89%, Class: coreless_battery, Box: (623, 572), (818, 721);  Picture: 00003750
+Confidence: 85%, Class: core_battery, Box: (605, 447), (727, 504);  Picture: 00000300
+Confidence: 98%, Class: core_battery, Box: (308, 691), (408, 881);  Picture: 00000688
+Confidence: 90%, Class: core_battery, Box: (976, 338), (1079, 419);  Confidence: 57%, Class: core_battery, Box: (996, 354), (1059, 399);  Picture: 00004870
+Confidence: 100%, Class: coreless_battery, Box: (115, 482), (292, 579);  Picture: 00003791
+Confidence: 98%, Class: coreless_battery, Box: (176, 719), (374, 871);  Picture: 00004805
+Confidence: 98%, Class: coreless_battery, Box: (500, 506), (600, 706);  Confidence: 73%, Class: coreless_battery, Box: (481, 434), (615, 776);  Picture: 00004424
+Confidence: 100%, Class: coreless_battery, Box: (556, 322), (737, 462);  Picture: 00005178
+Confidence: 70%, Class: core_battery, Box: (1551, 754), (1718, 844);  Picture: 00003460
+Confidence: 94%, Class: coreless_battery, Box: (482, 445), (617, 672);  Picture: 00005453
+Confidence: 100%, Class: coreless_battery, Box: (1036, 725), (1192, 891);  Confidence: 84%, Class: coreless_battery, Box: (430, 609), (502, 727);  Picture: 00000815
+Confidence: 99%, Class: coreless_battery, Box: (866, 385), (1047, 471);  Picture: 00000824
+Confidence: 98%, Class: core_battery, Box: (343, 515), (454, 624);  Picture: 00003793
+Confidence: 96%, Class: core_battery, Box: (1344, 739), (1483, 864);  Picture: 00003577
+Confidence: 99%, Class: coreless_battery, Box: (496, 704), (666, 800);  Confidence: 87%, Class: coreless_battery, Box: (69, 650), (121, 823);  Picture: 00004153
+Confidence: 56%, Class: core_battery, Box: (571, 567), (644, 690);  Picture: 00000382
+Picture: 00002377
+Confidence: 90%, Class: coreless_battery, Box: (327, 463), (470, 558);  Picture: 00005805
+Confidence: 99%, Class: coreless_battery, Box: (211, 449), (410, 551);  Picture: 00003265
+Confidence: 99%, Class: coreless_battery, Box: (126, 389), (298, 482);  Picture: 00000056
+Confidence: 99%, Class: coreless_battery, Box: (110, 627), (303, 740);  Picture: 00003459
+Confidence: 99%, Class: core_battery, Box: (410, 463), (490, 640);  Picture: 00004020
+Confidence: 99%, Class: core_battery, Box: (986, 512), (1105, 615);  Picture: 00001811
+Confidence: 100%, Class: coreless_battery, Box: (46, 608), (147, 768);  Picture: 00000062
+Confidence: 96%, Class: coreless_battery, Box: (1311, 657), (1405, 755);  Confidence: 99%, Class: core_battery, Box: (130, 394), (365, 516);  Picture: 00001581
+Confidence: 100%, Class: coreless_battery, Box: (194, 775), (351, 873);  Picture: 00000210
+Confidence: 97%, Class: core_battery, Box: (174, 646), (298, 756);  Picture: 00000161
+Confidence: 100%, Class: coreless_battery, Box: (318, 689), (483, 784);  Picture: 00001690
+Confidence: 99%, Class: core_battery, Box: (176, 757), (377, 895);  Picture: 00005162
+Confidence: 100%, Class: core_battery, Box: (498, 530), (689, 656);  Picture: 00005746
+Confidence: 99%, Class: coreless_battery, Box: (718, 767), (924, 846);  Picture: 00003153
+Confidence: 100%, Class: coreless_battery, Box: (520, 704), (701, 830);  Picture: 00001953
+Confidence: 96%, Class: core_battery, Box: (689, 783), (823, 873);  Confidence: 91%, Class: core_battery, Box: (1490, 402), (1577, 554);  Picture: 00005622
+Confidence: 99%, Class: coreless_battery, Box: (916, 618), (1064, 713);  Picture: 00005808
+Confidence: 100%, Class: coreless_battery, Box: (116, 418), (227, 584);  Picture: 00005230
+Confidence: 96%, Class: coreless_battery, Box: (241, 308), (391, 395);  Confidence: 97%, Class: core_battery, Box: (1606, 614), (1676, 717);  Picture: 00002418
+Confidence: 99%, Class: core_battery, Box: (179, 748), (352, 831);  Confidence: 64%, Class: core_battery, Box: (51, 714), (207, 824);  Picture: 00003784
+Confidence: 89%, Class: coreless_battery, Box: (60, 551), (164, 702);  Confidence: 72%, Class: core_battery, Box: (69, 717), (193, 818);  Picture: 00002059
+Confidence: 74%, Class: coreless_battery, Box: (145, 415), (335, 487);  Picture: 00003860
+Confidence: 98%, Class: coreless_battery, Box: (58, 389), (159, 634);  Picture: 00003767
+Confidence: 96%, Class: core_battery, Box: (1416, 670), (1676, 856);  Picture: 00005276
+Confidence: 99%, Class: coreless_battery, Box: (113, 658), (204, 896);  Picture: 00005010
+Confidence: 90%, Class: core_battery, Box: (1458, 664), (1532, 797);  Picture: 00001155
+Confidence: 83%, Class: core_battery, Box: (257, 738), (349, 790);  Picture: 00005815
+Confidence: 100%, Class: core_battery, Box: (68, 334), (233, 403);  Picture: 00000598
+Confidence: 97%, Class: core_battery, Box: (118, 708), (264, 824);  Picture: 00002158
+Confidence: 96%, Class: core_battery, Box: (782, 381), (861, 508);  Picture: 00004748
+Confidence: 72%, Class: coreless_battery, Box: (313, 464), (451, 584);  Confidence: 89%, Class: core_battery, Box: (316, 553), (481, 753);  Picture: 00005706
+Confidence: 100%, Class: coreless_battery, Box: (605, 521), (774, 609);  Picture: 00001468
+Confidence: 97%, Class: core_battery, Box: (258, 560), (399, 645);  Picture: 00001869
+Confidence: 88%, Class: coreless_battery, Box: (726, 380), (857, 459);  Confidence: 95%, Class: core_battery, Box: (1221, 387), (1418, 509);  Picture: 00000369
+Confidence: 100%, Class: coreless_battery, Box: (172, 432), (285, 672);  Picture: 00004552
+Confidence: 97%, Class: core_battery, Box: (530, 424), (655, 525);  Picture: 00005689
+Confidence: 100%, Class: coreless_battery, Box: (331, 787), (479, 919);  Picture: 00005542
+Confidence: 99%, Class: core_battery, Box: (1906, 558), (1982, 687);  Confidence: 98%, Class: core_battery, Box: (589, 541), (689, 708);  Picture: 00000034
+Confidence: 98%, Class: core_battery, Box: (296, 453), (380, 595);  Picture: 00003227
+Confidence: 93%, Class: coreless_battery, Box: (219, 516), (406, 621);  Confidence: 89%, Class: core_battery, Box: (315, 457), (437, 551);  Picture: 00005307
+Confidence: 98%, Class: core_battery, Box: (1370, 504), (1490, 634);  Picture: 00003583
+Confidence: 96%, Class: coreless_battery, Box: (733, 465), (826, 543);  Picture: 00002489
+Confidence: 67%, Class: coreless_battery, Box: (639, 457), (709, 635);  Picture: 00000109
+Confidence: 98%, Class: core_battery, Box: (425, 423), (550, 649);  Picture: 00003100
+Confidence: 83%, Class: coreless_battery, Box: (596, 708), (651, 899);  Confidence: 56%, Class: coreless_battery, Box: (580, 650), (678, 942);  Picture: 00002601
+Confidence: 94%, Class: core_battery, Box: (759, 511), (837, 693);  Picture: 00001744
+Confidence: 57%, Class: core_battery, Box: (1035, 336), (1169, 418);  Picture: 00000069
+Confidence: 95%, Class: coreless_battery, Box: (498, 798), (618, 901);  Picture: 00002790
+Confidence: 99%, Class: core_battery, Box: (64, 449), (149, 566);  Picture: 00003698
+Confidence: 100%, Class: core_battery, Box: (942, 428), (1140, 528);  Picture: 00003636
+Confidence: 99%, Class: coreless_battery, Box: (549, 752), (723, 865);  Picture: 00005865
+Confidence: 99%, Class: coreless_battery, Box: (1298, 728), (1427, 843);  Picture: 00001290
+Confidence: 99%, Class: core_battery, Box: (246, 511), (375, 651);  Picture: 00002046
+Confidence: 72%, Class: core_battery, Box: (1194, 328), (1263, 452);  Picture: 00004852
+Confidence: 100%, Class: core_battery, Box: (99, 694), (284, 780);  Picture: 00001405
+Confidence: 99%, Class: coreless_battery, Box: (1065, 521), (1158, 678);  Confidence: 100%, Class: core_battery, Box: (189, 533), (298, 736);  Picture: 00000416
+Confidence: 97%, Class: core_battery, Box: (741, 350), (886, 559);  Confidence: 92%, Class: core_battery, Box: (1005, 396), (1121, 601);  Picture: 00003480
+Confidence: 97%, Class: coreless_battery, Box: (366, 441), (470, 617);  Picture: 00005277
+Confidence: 100%, Class: core_battery, Box: (37, 699), (225, 841);  Picture: 00005725
+Confidence: 99%, Class: core_battery, Box: (349, 306), (502, 428);  Picture: 00005152
+Confidence: 100%, Class: coreless_battery, Box: (943, 403), (1038, 592);  Picture: 00005299
+Confidence: 100%, Class: coreless_battery, Box: (151, 733), (338, 838);  Picture: 00005492
+Confidence: 96%, Class: core_battery, Box: (463, 346), (536, 539);  Picture: 00006008
+Confidence: 100%, Class: core_battery, Box: (333, 437), (454, 521);  Picture: 00001145
+Confidence: 98%, Class: coreless_battery, Box: (657, 695), (796, 931);  Picture: 00004551
+Confidence: 94%, Class: core_battery, Box: (42, 383), (133, 512);  Picture: 00006014
+Confidence: 98%, Class: coreless_battery, Box: (664, 687), (840, 776);  Picture: 00001186
+Confidence: 100%, Class: core_battery, Box: (77, 626), (262, 700);  Picture: 00001523
+Confidence: 97%, Class: core_battery, Box: (45, 604), (183, 847);  Picture: 00000505
+Confidence: 99%, Class: coreless_battery, Box: (436, 341), (631, 450);  Picture: 00001339
+Confidence: 100%, Class: core_battery, Box: (851, 386), (990, 511);  Picture: 00003221
+Confidence: 100%, Class: core_battery, Box: (109, 631), (200, 766);  Picture: 00003485
+Confidence: 100%, Class: coreless_battery, Box: (460, 810), (645, 911);  Confidence: 95%, Class: core_battery, Box: (1234, 576), (1284, 731);  Picture: 00001067
+Confidence: 99%, Class: coreless_battery, Box: (934, 420), (1055, 664);  Picture: 00005161
+Confidence: 92%, Class: coreless_battery, Box: (120, 530), (194, 700);  Picture: 00001092
+Confidence: 99%, Class: coreless_battery, Box: (498, 272), (657, 313);  Picture: 00004974
+Confidence: 76%, Class: coreless_battery, Box: (914, 791), (1067, 907);  Confidence: 58%, Class: coreless_battery, Box: (886, 725), (1099, 827);  Confidence: 52%, Class: coreless_battery, Box: (895, 700), (1087, 917);  Confidence: 82%, Class: core_battery, Box: (1852, 759), (1964, 866);  Picture: 00001369
+Picture: 00001789
+Confidence: 96%, Class: coreless_battery, Box: (215, 375), (412, 485);  Confidence: 69%, Class: core_battery, Box: (155, 376), (205, 517);  Picture: 00002830
+Confidence: 87%, Class: coreless_battery, Box: (293, 420), (362, 561);  Picture: 00001920
+Confidence: 98%, Class: core_battery, Box: (198, 647), (289, 778);  Picture: 00003571
+Confidence: 92%, Class: core_battery, Box: (266, 532), (360, 680);  Picture: 00002771
+Confidence: 100%, Class: core_battery, Box: (186, 624), (367, 772);  Picture: 00003608
+Confidence: 99%, Class: coreless_battery, Box: (159, 341), (324, 428);  Picture: 00005798
+Confidence: 98%, Class: core_battery, Box: (53, 717), (192, 817);  Picture: 00003603
+Confidence: 98%, Class: core_battery, Box: (831, 296), (933, 444);  Confidence: 95%, Class: core_battery, Box: (149, 390), (287, 469);  Picture: 00004840
+Confidence: 99%, Class: core_battery, Box: (252, 431), (400, 590);  Picture: 00002437
+Confidence: 97%, Class: core_battery, Box: (239, 405), (374, 617);  Picture: 00000163
+Confidence: 94%, Class: core_battery, Box: (744, 398), (883, 461);  Picture: 00005427
+Confidence: 99%, Class: coreless_battery, Box: (243, 427), (383, 590);  Picture: 00002599
+Confidence: 97%, Class: core_battery, Box: (238, 319), (358, 423);  Picture: 00004610
+Confidence: 99%, Class: coreless_battery, Box: (649, 376), (792, 495);  Picture: 00001038
+Picture: 00000083
+Confidence: 97%, Class: core_battery, Box: (70, 311), (204, 427);  Picture: 00003890
+Confidence: 99%, Class: core_battery, Box: (293, 417), (435, 522);  Picture: 00002477
+Confidence: 72%, Class: coreless_battery, Box: (176, 512), (323, 622);  Picture: 00005941
+Confidence: 98%, Class: core_battery, Box: (1130, 512), (1264, 653);  Picture: 00004912
+Confidence: 98%, Class: coreless_battery, Box: (46, 573), (132, 762);  Picture: 00001492
+Confidence: 99%, Class: coreless_battery, Box: (84, 668), (148, 862);  Picture: 00004703
+Confidence: 99%, Class: coreless_battery, Box: (271, 638), (373, 819);  Picture: 00002694
+Confidence: 89%, Class: core_battery, Box: (41, 435), (118, 623);  Picture: 00003483
+Confidence: 100%, Class: coreless_battery, Box: (241, 754), (349, 902);  Picture: 00005605
+Confidence: 99%, Class: coreless_battery, Box: (277, 499), (430, 584);  Picture: 00005324
+Confidence: 82%, Class: coreless_battery, Box: (123, 704), (313, 861);  Picture: 00004784
+Confidence: 79%, Class: coreless_battery, Box: (1199, 415), (1355, 486);  Picture: 00005970
+Confidence: 94%, Class: coreless_battery, Box: (371, 411), (467, 619);  Picture: 00005703
+Confidence: 100%, Class: core_battery, Box: (139, 713), (338, 803);  Picture: 00002786
+Confidence: 100%, Class: core_battery, Box: (137, 533), (334, 656);  Picture: 00005399
+Confidence: 100%, Class: core_battery, Box: (81, 663), (210, 764);  Picture: 00004286
+Confidence: 83%, Class: core_battery, Box: (190, 387), (304, 475);  Picture: 00005962
+Confidence: 85%, Class: core_battery, Box: (9, 528), (118, 663);  Picture: 00005791
+Confidence: 98%, Class: coreless_battery, Box: (222, 345), (353, 437);  Picture: 00000473
+Confidence: 93%, Class: coreless_battery, Box: (232, 329), (368, 416);  Picture: 00001187
+Confidence: 73%, Class: coreless_battery, Box: (314, 549), (479, 670);  Picture: 00004614
+Confidence: 100%, Class: coreless_battery, Box: (73, 674), (267, 790);  Picture: 00002818
+Confidence: 89%, Class: coreless_battery, Box: (698, 436), (889, 536);  Picture: 00004938
+Confidence: 100%, Class: coreless_battery, Box: (57, 807), (213, 912);  Picture: 00000294
+Confidence: 87%, Class: core_battery, Box: (1298, 343), (1367, 428);  Picture: 00003471
+Confidence: 100%, Class: core_battery, Box: (987, 306), (1111, 385);  Picture: 00003453
+Confidence: 95%, Class: core_battery, Box: (1777, 370), (1937, 532);  Picture: 00003840
+Confidence: 100%, Class: core_battery, Box: (224, 709), (352, 828);  Picture: 00003277
+Confidence: 98%, Class: core_battery, Box: (1810, 697), (1931, 874);  Picture: 00005249
+Confidence: 99%, Class: coreless_battery, Box: (562, 458), (726, 590);  Picture: 00000295
+Confidence: 98%, Class: core_battery, Box: (337, 631), (467, 739);  Picture: 00001326
+Picture: 00003648
+Confidence: 100%, Class: coreless_battery, Box: (338, 402), (525, 465);  Picture: 00003889
+Confidence: 98%, Class: coreless_battery, Box: (262, 352), (354, 497);  Picture: 00001833
+Confidence: 100%, Class: core_battery, Box: (1075, 764), (1260, 861);  Picture: 00002742
+Confidence: 99%, Class: core_battery, Box: (261, 729), (377, 838);  Picture: 00000997
+Confidence: 98%, Class: coreless_battery, Box: (147, 781), (327, 891);  Picture: 00005769
+Confidence: 99%, Class: core_battery, Box: (296, 569), (406, 736);  Picture: 00001802
+Confidence: 99%, Class: core_battery, Box: (36, 419), (195, 530);  Picture: 00001410
+Confidence: 99%, Class: core_battery, Box: (157, 786), (265, 914);  Picture: 00000839
+Confidence: 100%, Class: core_battery, Box: (29, 377), (159, 481);  Picture: 00004038
+Confidence: 94%, Class: core_battery, Box: (554, 533), (616, 678);  Picture: 00005106
+Confidence: 100%, Class: core_battery, Box: (343, 567), (468, 660);  Picture: 00001633
+Confidence: 100%, Class: coreless_battery, Box: (1778, 791), (1979, 887);  Picture: 00004498
+Confidence: 95%, Class: coreless_battery, Box: (341, 329), (408, 455);  Picture: 00005021
+Confidence: 100%, Class: coreless_battery, Box: (397, 581), (571, 733);  Confidence: 99%, Class: core_battery, Box: (1749, 345), (1961, 436);  Picture: 00004557
+Confidence: 93%, Class: coreless_battery, Box: (438, 806), (644, 935);  Picture: 00005219
+Confidence: 97%, Class: core_battery, Box: (1502, 749), (1657, 858);  Picture: 00003346
+Confidence: 97%, Class: coreless_battery, Box: (63, 475), (211, 575);  Confidence: 98%, Class: core_battery, Box: (249, 444), (330, 548);  Picture: 00004195
+Confidence: 99%, Class: core_battery, Box: (91, 576), (228, 689);  Picture: 00005159
+Confidence: 100%, Class: coreless_battery, Box: (1288, 665), (1451, 864);  Picture: 00004280
+Confidence: 100%, Class: core_battery, Box: (107, 718), (253, 853);  Picture: 00004593
+Confidence: 99%, Class: coreless_battery, Box: (607, 719), (706, 932);  Picture: 00003391
+Confidence: 98%, Class: coreless_battery, Box: (528, 740), (667, 865);  Picture: 00002843
+Confidence: 99%, Class: core_battery, Box: (1433, 396), (1522, 591);  Picture: 00004827
+Confidence: 96%, Class: coreless_battery, Box: (1279, 687), (1415, 886);  Picture: 00002206
+Confidence: 97%, Class: coreless_battery, Box: (104, 377), (227, 561);  Confidence: 100%, Class: core_battery, Box: (1443, 654), (1531, 848);  Picture: 00002654
+Confidence: 99%, Class: coreless_battery, Box: (529, 473), (619, 648);  Picture: 00000514
+Confidence: 99%, Class: core_battery, Box: (283, 669), (400, 880);  Picture: 00005480
+Confidence: 97%, Class: core_battery, Box: (777, 411), (869, 536);  Picture: 00002245
+Confidence: 100%, Class: core_battery, Box: (199, 582), (341, 684);  Picture: 00003340
+Confidence: 80%, Class: core_battery, Box: (1298, 446), (1411, 550);  Picture: 00001761
+Confidence: 100%, Class: coreless_battery, Box: (177, 389), (282, 555);  Picture: 00001602
+Confidence: 93%, Class: coreless_battery, Box: (563, 755), (734, 868);  Picture: 00003557
+Confidence: 100%, Class: coreless_battery, Box: (219, 462), (385, 571);  Picture: 00005687
+Confidence: 100%, Class: coreless_battery, Box: (638, 318), (726, 451);  Picture: 00005635
+Confidence: 99%, Class: core_battery, Box: (1347, 405), (1519, 551);  Picture: 00005144
+Confidence: 99%, Class: core_battery, Box: (236, 556), (325, 668);  Picture: 00005939
+Confidence: 95%, Class: coreless_battery, Box: (939, 643), (1035, 825);  Picture: 00000272
+Confidence: 99%, Class: coreless_battery, Box: (196, 463), (407, 588);  Picture: 00002838
+Confidence: 93%, Class: core_battery, Box: (474, 370), (559, 481);  Picture: 00000783
+Confidence: 96%, Class: core_battery, Box: (1037, 534), (1148, 649);  Picture: 00004021
+Confidence: 99%, Class: coreless_battery, Box: (278, 679), (349, 870);  Confidence: 73%, Class: coreless_battery, Box: (1456, 768), (1635, 837);  Picture: 00000126
+Confidence: 100%, Class: coreless_battery, Box: (340, 559), (518, 739);  Picture: 00005820
+Confidence: 99%, Class: core_battery, Box: (305, 625), (429, 743);  Picture: 00005649
+Confidence: 100%, Class: core_battery, Box: (302, 587), (508, 728);  Picture: 00003027
+Confidence: 98%, Class: coreless_battery, Box: (1373, 582), (1467, 788);  Confidence: 95%, Class: core_battery, Box: (683, 485), (786, 720);  Picture: 00005909
+Confidence: 99%, Class: coreless_battery, Box: (293, 532), (387, 731);  Picture: 00003888
+Confidence: 99%, Class: coreless_battery, Box: (71, 701), (176, 847);  Picture: 00002435
+Confidence: 100%, Class: core_battery, Box: (255, 368), (390, 458);  Picture: 00004440
+Confidence: 99%, Class: coreless_battery, Box: (635, 416), (728, 558);  Picture: 00002944
+Confidence: 100%, Class: core_battery, Box: (569, 338), (660, 485);  Picture: 00000930
+Confidence: 99%, Class: core_battery, Box: (810, 333), (1007, 413);  Picture: 00001870
+Confidence: 98%, Class: core_battery, Box: (1645, 698), (1778, 846);  Picture: 00004675
+Confidence: 99%, Class: coreless_battery, Box: (227, 353), (369, 564);  Picture: 00005777
+Confidence: 100%, Class: core_battery, Box: (94, 744), (310, 861);  Picture: 00003905
+Confidence: 97%, Class: core_battery, Box: (941, 405), (1084, 498);  Picture: 00003444
+Confidence: 99%, Class: core_battery, Box: (791, 364), (931, 461);  Picture: 00002181
+Confidence: 96%, Class: coreless_battery, Box: (435, 486), (533, 653);  Picture: 00001913
+Confidence: 99%, Class: core_battery, Box: (95, 371), (301, 505);  Picture: 00005043
+Confidence: 100%, Class: core_battery, Box: (543, 413), (729, 513);  Picture: 00002227
+Confidence: 97%, Class: core_battery, Box: (65, 412), (130, 557);  Picture: 00001921
+Confidence: 100%, Class: coreless_battery, Box: (224, 603), (355, 742);  Picture: 00001026
+Confidence: 96%, Class: core_battery, Box: (85, 604), (169, 835);  Picture: 00005741
+Confidence: 95%, Class: coreless_battery, Box: (471, 483), (569, 633);  Picture: 00003505
+Confidence: 98%, Class: core_battery, Box: (429, 582), (560, 779);  Picture: 00005837
+Confidence: 92%, Class: coreless_battery, Box: (864, 376), (964, 523);  Picture: 00006016
+Confidence: 94%, Class: core_battery, Box: (694, 367), (779, 471);  Picture: 00002824
+Confidence: 99%, Class: core_battery, Box: (264, 339), (379, 460);  Picture: 00005080
+Picture: 00002256
+Confidence: 95%, Class: coreless_battery, Box: (76, 528), (232, 683);  Picture: 00002796
+Confidence: 100%, Class: core_battery, Box: (765, 696), (854, 844);  Picture: 00005438
+Confidence: 94%, Class: coreless_battery, Box: (145, 333), (241, 524);  Picture: 00001455
+Confidence: 100%, Class: core_battery, Box: (681, 786), (853, 907);  Confidence: 99%, Class: core_battery, Box: (293, 344), (406, 540);  Picture: 00002775
+Confidence: 89%, Class: coreless_battery, Box: (457, 606), (550, 758);  Picture: 00000269
+Confidence: 100%, Class: coreless_battery, Box: (104, 663), (318, 801);  Confidence: 97%, Class: core_battery, Box: (1850, 759), (1976, 864);  Picture: 00004546
+Confidence: 100%, Class: coreless_battery, Box: (806, 699), (997, 836);  Picture: 00003687
+Confidence: 99%, Class: core_battery, Box: (284, 374), (420, 486);  Picture: 00001590
+Confidence: 98%, Class: coreless_battery, Box: (737, 632), (931, 723);  Picture: 00000275
+Confidence: 99%, Class: coreless_battery, Box: (573, 671), (689, 876);  Picture: 00003746
+Confidence: 100%, Class: coreless_battery, Box: (207, 318), (391, 450);  Picture: 00005214
+Confidence: 100%, Class: core_battery, Box: (240, 364), (390, 478);  Picture: 00005041
+Confidence: 99%, Class: coreless_battery, Box: (559, 447), (708, 613);  Picture: 00002345
+Confidence: 98%, Class: core_battery, Box: (46, 391), (181, 478);  Picture: 00003078
+Confidence: 97%, Class: core_battery, Box: (616, 649), (704, 841);  Confidence: 94%, Class: core_battery, Box: (1123, 557), (1235, 667);  Picture: 00003200
+Confidence: 95%, Class: core_battery, Box: (80, 427), (282, 487);  Picture: 00003554
+Confidence: 97%, Class: core_battery, Box: (925, 319), (1051, 419);  Picture: 00001942
+Picture: 00002184
+Confidence: 99%, Class: core_battery, Box: (930, 711), (1086, 820);  Picture: 00004867
+Confidence: 100%, Class: coreless_battery, Box: (135, 424), (353, 526);  Picture: 00002470
+Confidence: 99%, Class: core_battery, Box: (662, 633), (775, 814);  Picture: 00002327
+Confidence: 96%, Class: core_battery, Box: (117, 775), (242, 858);  Picture: 00005379
+Confidence: 95%, Class: coreless_battery, Box: (213, 352), (440, 427);  Picture: 00002760
+Confidence: 99%, Class: core_battery, Box: (419, 455), (566, 683);  Picture: 00002514
+Confidence: 99%, Class: coreless_battery, Box: (428, 481), (515, 610);  Picture: 00001671
+Confidence: 100%, Class: core_battery, Box: (655, 666), (785, 781);  Picture: 00005519
+Confidence: 100%, Class: coreless_battery, Box: (815, 771), (1025, 861);  Picture: 00004188
+Confidence: 100%, Class: coreless_battery, Box: (195, 377), (391, 479);  Picture: 00005045
+Confidence: 99%, Class: core_battery, Box: (439, 627), (592, 765);  Picture: 00003086
+Confidence: 98%, Class: core_battery, Box: (1316, 595), (1416, 732);  Picture: 00004957
+Confidence: 100%, Class: core_battery, Box: (659, 465), (738, 608);  Confidence: 91%, Class: core_battery, Box: (775, 385), (938, 514);  Picture: 00005255
+Confidence: 91%, Class: core_battery, Box: (242, 429), (378, 505);  Picture: 00003532
+Confidence: 95%, Class: coreless_battery, Box: (76, 420), (181, 569);  Picture: 00000090
+Confidence: 90%, Class: core_battery, Box: (509, 672), (634, 816);  Picture: 00004653
+Confidence: 97%, Class: core_battery, Box: (197, 475), (357, 580);  Picture: 00005624
+Confidence: 99%, Class: core_battery, Box: (1317, 735), (1527, 861);  Picture: 00003023
+Confidence: 97%, Class: core_battery, Box: (532, 602), (671, 736);  Picture: 00006028
+Confidence: 95%, Class: coreless_battery, Box: (1255, 768), (1350, 920);  Picture: 00000117
+Confidence: 100%, Class: coreless_battery, Box: (437, 701), (652, 782);  Picture: 00001118
+Confidence: 98%, Class: coreless_battery, Box: (128, 388), (288, 478);  Picture: 00001918
+Confidence: 89%, Class: coreless_battery, Box: (126, 615), (309, 706);  Picture: 00002650
+Confidence: 97%, Class: coreless_battery, Box: (1691, 525), (1795, 711);  Picture: 00005538
+Confidence: 97%, Class: coreless_battery, Box: (536, 624), (650, 785);  Picture: 00000478
+Confidence: 100%, Class: coreless_battery, Box: (655, 719), (796, 848);  Picture: 00001312
+Confidence: 99%, Class: core_battery, Box: (1448, 523), (1548, 644);  Picture: 00002930
+Confidence: 100%, Class: coreless_battery, Box: (23, 733), (258, 836);  Picture: 00000242
+Confidence: 100%, Class: coreless_battery, Box: (963, 466), (1158, 591);  Picture: 00005629
+Confidence: 98%, Class: coreless_battery, Box: (538, 681), (754, 815);  Picture: 00002474
+Confidence: 99%, Class: core_battery, Box: (569, 382), (680, 450);  Picture: 00001345
+Confidence: 95%, Class: core_battery, Box: (687, 307), (791, 450);  Picture: 00002765
+Confidence: 96%, Class: core_battery, Box: (283, 537), (361, 709);  Picture: 00004225
+Confidence: 99%, Class: core_battery, Box: (607, 751), (750, 852);  Picture: 00004135
